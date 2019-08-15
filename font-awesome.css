@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  src: url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN.COM/7a967d4f5cc06ee2e0b49c0757dfd48f6a1fa62e/fontawesome-webfont.eot?v=4.7.0');
+  src: url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN.COM/7a967d4f5cc06ee2e0b49c0757dfd48f6a1fa62e/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN.COM/7a967d4f5cc06ee2e0b49c0757dfd48f6a1fa62e/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN.COM/7a967d4f5cc06ee2e0b49c0757dfd48f6a1fa62e/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN.COM/7a967d4f5cc06ee2e0b49c0757dfd48f6a1fa62e/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://github.com/corporacionbastidas/SIPCAN.COM/blob/master/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
